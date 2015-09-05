@@ -1,4 +1,9 @@
 # hello
-test
 
-how are you ???
+
+#include<stdio.h>
+int main()
+{
+printf("go\n");
+return 0;
+}
